@@ -12,6 +12,9 @@ book:
     - part: Word2Vec
       chapters: 
         - "content/word2vec/w2v-song-rec.ipynb"
+    - part: HF NLP
+      chapters: 
+        - "content/hf-nlp/tf-basic.ipynb"
     
 
 bibliography: references.bib
