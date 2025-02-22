@@ -9,6 +9,10 @@ book:
   site-url: https://nlp-notes-lightbridge.netlify.app
   chapters:
     - index.qmd
+    - part: Word2Vec
+      chapters: 
+        - "content/word2vec/w2v-song-rec.ipynb"
+    
 
 bibliography: references.bib
 
@@ -17,6 +21,7 @@ format:
     theme:
       - zephyrs
       - brand
+    toc-depth: 4
 
 
 
