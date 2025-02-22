@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "NLP Notes"
+  author: "Kittipos Sirivongrungson"
+  date: today
+  repo-url: https://github.com/Lightbridge-KS/nlp-notes
+  site-url: https://nlp-notes-lightbridge.netlify.app
+  chapters:
+    - index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - zephyrs
+      - brand
+
+
+
