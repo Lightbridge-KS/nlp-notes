@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 76f2be31-d3b5-4191-9478-783eca7e74d5
+      url: https://nlp-notes-lightbridge.netlify.app
