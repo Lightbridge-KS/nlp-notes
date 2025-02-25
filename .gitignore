@@ -1,3 +1,9 @@
+# Largefile
+*.safetensors
+
+# Private
+*private
+
 # Stuff
 .Rproj.user
 .Rhistory

@@ -15,6 +15,9 @@ book:
     - part: HF NLP
       chapters: 
         - "content/hf-nlp/tf-basic.ipynb"
+        - "content/hf-nlp/tf-behind-pipe.ipynb"
+        - "content/hf-nlp/tf-model.ipynb"
+        - "content/hf-nlp/tf-tokenization.ipynb"
     
 
 bibliography: references.bib
